@@ -1,1 +1,1 @@
-worker: npm I github:adiwajshing/baileys && node .
+ npm i github:adiwajshing/baileys && node .
